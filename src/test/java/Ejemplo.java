@@ -5,7 +5,8 @@ public class Ejemplo {
 		System.out.println("Hola Mundo");
 
 		String nombre = "Carolina";
-		
+
+		System.out.println(nombre);
 	}
 
 }
